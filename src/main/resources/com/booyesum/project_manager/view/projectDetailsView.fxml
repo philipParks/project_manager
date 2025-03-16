@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <SplitPane dividerPositions="0.4891304347826087" layoutX="-1.0" prefHeight="400.0" prefWidth="600.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="14.0" text="Project Title" />
+                  <Label layoutX="14.0" layoutY="41.0" text="Description" />
+                  <Label layoutX="14.0" layoutY="82.0" text="Project Manager" />
+                  <Label layoutX="14.0" layoutY="125.0" text="Current Phase" />
+                  <Label layoutX="14.0" layoutY="160.0" text="Start Date" />
+                  <Label layoutX="14.0" layoutY="191.0" text="End Date" />
+                  <Button layoutX="16.0" layoutY="290.0" mnemonicParsing="false" text="Risks" />
+                  <Button layoutX="77.0" layoutY="237.0" mnemonicParsing="false" text="Stakeholders" />
+                  <Button layoutX="14.0" layoutY="237.0" mnemonicParsing="false" text="Tasks" />
+                  <Button layoutX="77.0" layoutY="290.0" mnemonicParsing="false" text="Resources" />
+                  <Button layoutX="179.0" layoutY="237.0" mnemonicParsing="false" text="Documents" />
+                  <Button layoutX="166.0" layoutY="290.0" mnemonicParsing="false" text="Schedule" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <TableView layoutX="29.0" layoutY="26.0" prefHeight="301.0" prefWidth="244.0">
+                    <columns>
+                      <TableColumn prefWidth="75.0" text="C1" />
+                      <TableColumn prefWidth="75.0" text="C2" />
+                    </columns>
+                  </TableView>
+                  <Button layoutX="29.0" layoutY="346.0" mnemonicParsing="false" text="View" />
+                  <Button layoutX="124.0" layoutY="347.0" mnemonicParsing="false" text="Add" />
+                  <Button layoutX="218.0" layoutY="347.0" mnemonicParsing="false" text="Delete" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
