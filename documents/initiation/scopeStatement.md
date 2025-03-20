@@ -4,9 +4,9 @@
 
 **Project Title:** Project Management Application
 
-**Project Start Date:** TBD
+**Project Start Date:** April 2025
 
-**Projected End Date:** TBD
+**Projected End Date:** September 2025
 
 **Project Manager:** Philip Parks
 
@@ -46,8 +46,6 @@ provide project insights.
 
 **Notification System:** Alerts and reminders for upcoming deadlines, task updates, and project changes.
 
-**Mobile Compatibility:** A responsive interface for mobile access on iOS and Android platforms.
-
 **Integration with Third-party Tools:** Ability to integrate with popular tools like Slack, Google Calendar, and other cloud
 storage services.
 
@@ -69,7 +67,7 @@ All documentation is complete and delivered as per project requirements.
 
 Functional prototype of the project management application.
 
-Fully developed and tested web and mobile versions of the application.
+Fully developed and tested application.
 
 User documentation and training materials.
 
@@ -91,10 +89,9 @@ Extensive user training beyond documentation and online tutorials.
 
 ## Assumptions
 
-The application will be developed using modern web technologies such as React for the frontend and Node.js for the 
-backend.
+The application will be developed using Java.
 
-The target user base will have access to modern browsers and mobile devices.
+The target user base will have access to systems capable of running a Java application.
 
 The project will utilize agile methodologies for iterative development and testing.
 
