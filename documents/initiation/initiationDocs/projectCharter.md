@@ -123,6 +123,8 @@ September 2025: Closing/Maintenance Phase
 
 Version Control: GitHub
 
+Software: IntelliJ IDEA
+
 Development/Testing Device: MacBook
 
 ### Risks
