@@ -111,7 +111,7 @@ Booyesum
 
 ### Timeline and Milestones
 
-March 2025: Creation Phase and Initiation Phase
+March 2025: Creation and Initiation Phase
 
 April 2025: Planning Phase
 

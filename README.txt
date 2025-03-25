@@ -10,7 +10,7 @@ Purpose
 
 An application that tracks metrics related to project management
 
-Note: Project documentation can be found in the 'documents' directory in the 'project_manager' main directory.
+Note: Project management documentation can be found in the 'documents' directory in the 'project_manager' main directory.
 
 ******
 Author

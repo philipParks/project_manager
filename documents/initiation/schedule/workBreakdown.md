@@ -4,7 +4,11 @@
 
 PROJECT APPROVAL
 
+Project has been approved by stakeholders.
+
 PROJECT KICKOFF
+
+Project Initiation Phase has started.
 
 SOLUTION DESIGN APPROVAL
 
